@@ -1,0 +1,18 @@
+﻿生成启动时间为 2013-9-17 18:47:16。
+     1>项目“C:\Documents and Settings\Administrator\桌面\camera\camera.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Debug\camera.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IDirectShow/Include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\camera.pch" /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\winnt.h(290): error C2146: 语法错误: 缺少“;”(在标识符“PVOID64”的前面)
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\winnt.h(290): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\winnt.h(8992): error C2146: 语法错误: 缺少“;”(在标识符“Buffer”的前面)
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\winnt.h(8992): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>c:\program files\microsoft sdks\windows\v7.0a\include\winnt.h(8992): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>已完成生成项目“C:\Documents and Settings\Administrator\桌面\camera\camera.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:09.03
